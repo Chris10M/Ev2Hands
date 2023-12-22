@@ -1,7 +1,7 @@
-# Ev2Hands: 3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera [3DV24]
+# Ev2Hands: 3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera [3DV'24]
 ### Official PyTorch implementation
 
-[Project page](https://4dqv.mpi-inf.mpg.de/Ev2Hands/) | [Paper](./README.md)
+[Project page](https://4dqv.mpi-inf.mpg.de/Ev2Hands/) | [Paper](https://arxiv.org/abs/2312.14157)
 
 <p align="center">
 <img src="images/teaser.gif" alt="Ev2Hands" /></br>
