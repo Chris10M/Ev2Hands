@@ -53,7 +53,7 @@ cd Ev2Hands
 ##### Data Folder
 
 * Please register at the [MANO](https://mano.is.tue.mpg.de/) website and download the MANO models.
-* Put the MANO models in a folder with the folowing structure.
+* Put the MANO models in a folder with the following structure.
 * Download the data from [here](https://gvv-assets.mpi-inf.mpg.de/twoeventhands/data.zip) and ensure that the files and folders have the following structure.   
 ```bash
 src
